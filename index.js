@@ -1,3 +1,3 @@
-import printLastElement from "./src/index.js";
+import printLastElement from './src/index';
 
-printLastElement(['one', 'two'])
+printLastElement(['one', 'two']);
